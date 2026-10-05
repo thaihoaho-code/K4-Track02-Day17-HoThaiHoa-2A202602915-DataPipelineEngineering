@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Hồ Thái Hòa, 2A202602915
 **Repo:** https://github.com/thaihoaho-code/K4-Track02-Day17-HoThaiHoa-2A202602915-DataPipelineEngineering
-**Commit bài nộp:**
+**Commit bài nộp:** 3fc91bb07a2e783b5dd548f5e4c8a8227e27c006
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** gemini 3.1 pro
 **Nguồn tham khảo khác (nếu có):**
 
